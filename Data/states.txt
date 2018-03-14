@@ -1,0 +1,51 @@
+New Hampshire	NH
+Colorado	CO
+Florida	FL
+Rhode Island	RI
+Maryland	MD
+Wyoming	WY
+Hawaii	HI
+Texas	TX
+Arkansas	AR
+Alaska	AK
+Virginia	VA
+Kansas	KS
+Alabama	AL
+South Dakota	SD
+Wisconsin	WI
+Iowa	IA
+North Dakota	ND
+New Mexico	NM
+California	CA
+North Carolina	NC
+South Carolina	SC
+New Jersey	NJ
+Louisiana	LA
+Connecticut	CT
+Utah	UT
+Georgia	GA
+Montana	MT
+Oklahoma	OK
+Illinois	IL
+Delaware	DE
+Mississippi	MS
+Arizona	AZ
+Missouri	MO
+Massachusetts	MA
+New York	NY
+Oregon	OR
+Nebraska	NE
+Idaho	ID
+Indiana	IN
+Tennessee	TN
+Kentucky	KY
+Vermont	VT
+Minnesota	MN
+Ohio	OH
+Pennsylvania	PA
+Maine	ME
+Nevada	NV
+Washington	WA
+Michigan	MI
+West Virginia	WV
+District of Columbia	DC

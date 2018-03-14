@@ -1,0 +1,299 @@
+<td><b>AL</b></td>
+<td><a href="/wiki/Alabama" title="Alabama">Alabama</a></td>
+<td><a href="/wiki/Montgomery,_Alabama" title="Montgomery, Alabama">Montgomery</a></td>
+<td>December 14, 1819</td>
+</tr>
+<tr>
+<td><b>AK</b></td>
+<td><a href="/wiki/Alaska" title="Alaska">Alaska</a></td>
+<td><a href="/wiki/Juneau,_Alaska" title="Juneau, Alaska">Juneau</a></td>
+<td>January 3, 1959</td>
+</tr>
+<tr>
+<td><b>AZ</b></td>
+<td><a href="/wiki/Arizona" title="Arizona">Arizona</a></td>
+<td><a href="/wiki/Phoenix,_Arizona" title="Phoenix, Arizona">Phoenix</a></td>
+<td>February 14, 1912</td>
+</tr>
+<tr>
+<td><b>AR</b></td>
+<td><a href="/wiki/Arkansas" title="Arkansas">Arkansas</a></td>
+<td><a href="/wiki/Little_Rock,_Arkansas" title="Little Rock, Arkansas">Little Rock</a></td>
+<td>June 15, 1836</td>
+</tr>
+<tr>
+<td><b>CA</b></td>
+<td><a href="/wiki/California" title="California">California</a></td>
+<td><a href="/wiki/Sacramento,_California" title="Sacramento, California">Sacramento</a></td>
+<td>September 9, 1850</td>
+</tr>
+<tr>
+<td><b>CO</b></td>
+<td><a href="/wiki/Colorado" title="Colorado">Colorado</a></td>
+<td><a href="/wiki/Denver" title="Denver">Denver</a></td>
+<td>August 1, 1876</td>
+</tr>
+<tr>
+<td><b>CT</b></td>
+<td><a href="/wiki/Connecticut" title="Connecticut">Connecticut</a></td>
+<td><a href="/wiki/Hartford,_Connecticut" title="Hartford, Connecticut">Hartford</a></td>
+<td>January 9, 1788</td>
+</tr>
+<tr>
+<td><b>DE</b></td>
+<td><a href="/wiki/Delaware" title="Delaware">Delaware</a></td>
+<td><a href="/wiki/Dover,_Delaware" title="Dover, Delaware">Dover</a></td>
+<td>December 7, 1787</td>
+</tr>
+<tr>
+<td><b>FL</b></td>
+<td><a href="/wiki/Florida" title="Florida">Florida</a></td>
+<td><a href="/wiki/Tallahassee,_Florida" title="Tallahassee, Florida">Tallahassee</a></td>
+<td>March 3, 1845</td>
+</tr>
+<tr>
+<td><b>GA</b></td>
+<td><a href="/wiki/Georgia_(U.S._state)" title="Georgia (U.S. state)">Georgia</a></td>
+<td><a href="/wiki/Atlanta" title="Atlanta">Atlanta</a></td>
+<td>January 2, 1788</td>
+</tr>
+<tr>
+<td><b>HI</b></td>
+<td><a href="/wiki/Hawaii" title="Hawaii">Hawaii</a></td>
+<td><a href="/wiki/Honolulu" title="Honolulu">Honolulu</a></td>
+<td>August 21, 1959</td>
+</tr>
+<tr>
+<td><b>ID</b></td>
+<td><a href="/wiki/Idaho" title="Idaho">Idaho</a></td>
+<td><a href="/wiki/Boise,_Idaho" title="Boise, Idaho">Boise</a></td>
+<td>July 3, 1890</td>
+</tr>
+<tr>
+<td><b>IL</b></td>
+<td><a href="/wiki/Illinois" title="Illinois">Illinois</a></td>
+<td><a href="/wiki/Springfield,_Illinois" title="Springfield, Illinois">Springfield</a></td>
+<td>December 3, 1818</td>
+</tr>
+<tr>
+<td><b>IN</b></td>
+<td><a href="/wiki/Indiana" title="Indiana">Indiana</a></td>
+<td><a href="/wiki/Indianapolis" title="Indianapolis">Indianapolis</a></td>
+<td>December 11, 1816</td>
+</tr>
+<tr>
+<td><b>IA</b></td>
+<td><a href="/wiki/Iowa" title="Iowa">Iowa</a></td>
+<td><a href="/wiki/Des_Moines,_Iowa" title="Des Moines, Iowa">Des Moines</a></td>
+<td>December 28, 1846</td>
+</tr>
+<tr>
+<td><b>KS</b></td>
+<td><a href="/wiki/Kansas" title="Kansas">Kansas</a></td>
+<td><a href="/wiki/Topeka,_Kansas" title="Topeka, Kansas">Topeka</a></td>
+<td>January 29, 1861</td>
+</tr>
+<tr>
+<td><b>KY</b></td>
+<td><a href="/wiki/Kentucky" title="Kentucky">Kentucky</a></td>
+<td><a href="/wiki/Frankfort,_Kentucky" title="Frankfort, Kentucky">Frankfort</a></td>
+<td>June 1, 1792</td>
+</tr>
+<tr>
+<td><b>LA</b></td>
+<td><a href="/wiki/Louisiana" title="Louisiana">Louisiana</a></td>
+<td><a href="/wiki/Baton_Rouge,_Louisiana" title="Baton Rouge, Louisiana">Baton Rouge</a></td>
+<td>April 30, 1812</td>
+</tr>
+<tr>
+<td><b>ME</b></td>
+<td><a href="/wiki/Maine" title="Maine">Maine</a></td>
+<td><a href="/wiki/Augusta,_Maine" title="Augusta, Maine">Augusta</a></td>
+<td>March 15, 1820</td>
+</tr>
+<tr>
+<td><b>MD</b></td>
+<td><a href="/wiki/Maryland" title="Maryland">Maryland</a></td>
+<td><a href="/wiki/Annapolis,_Maryland" title="Annapolis, Maryland">Annapolis</a></td>
+<td>April 28, 1788</td>
+</tr>
+<tr>
+<td><b>MA</b></td>
+<td><a href="/wiki/Massachusetts" title="Massachusetts">Massachusetts</a></td>
+<td><a href="/wiki/Boston" title="Boston">Boston</a></td>
+<td>February 6, 1788</td>
+</tr>
+<tr>
+<td><b>MI</b></td>
+<td><a href="/wiki/Michigan" title="Michigan">Michigan</a></td>
+<td><a href="/wiki/Lansing,_Michigan" title="Lansing, Michigan">Lansing</a></td>
+<td>January 26, 1837</td>
+</tr>
+<tr>
+<td><b>MN</b></td>
+<td><a href="/wiki/Minnesota" title="Minnesota">Minnesota</a></td>
+<td><a href="/wiki/Saint_Paul,_Minnesota" title="Saint Paul, Minnesota">Saint Paul</a></td>
+<td>May 11, 1858</td>
+</tr>
+<tr>
+<td><b>MS</b></td>
+<td><a href="/wiki/Mississippi" title="Mississippi">Mississippi</a></td>
+<td><a href="/wiki/Jackson,_Mississippi" title="Jackson, Mississippi">Jackson</a></td>
+<td>December 10, 1817</td>
+</tr>
+<tr>
+<td><b>MO</b></td>
+<td><a href="/wiki/Missouri" title="Missouri">Missouri</a></td>
+<td><a href="/wiki/Jefferson_City,_Missouri" title="Jefferson City, Missouri">Jefferson City</a></td>
+<td>August 10, 1821</td>
+</tr>
+<tr>
+<td><b>MT</b></td>
+<td><a href="/wiki/Montana" title="Montana">Montana</a></td>
+<td><a href="/wiki/Helena,_Montana" title="Helena, Montana">Helena</a></td>
+<td>November 8, 1889</td>
+</tr>
+<tr>
+<td><b>NE</b></td>
+<td><a href="/wiki/Nebraska" title="Nebraska">Nebraska</a></td>
+<td><a href="/wiki/Lincoln,_Nebraska" title="Lincoln, Nebraska">Lincoln</a></td>
+<td>March 1, 1867</td>
+</tr>
+<tr>
+<td><b>NV</b></td>
+<td><a href="/wiki/Nevada" title="Nevada">Nevada</a></td>
+<td><a href="/wiki/Carson_City,_Nevada" title="Carson City, Nevada">Carson City</a></td>
+<td>October 31, 1864</td>
+</tr>
+<tr>
+<td><b>NH</b></td>
+<td><a href="/wiki/New_Hampshire" title="New Hampshire">New Hampshire</a></td>
+<td><a href="/wiki/Concord,_New_Hampshire" title="Concord, New Hampshire">Concord</a></td>
+<td>June 21, 1788</td>
+</tr>
+<tr>
+<td><b>NJ</b></td>
+<td><a href="/wiki/New_Jersey" title="New Jersey">New Jersey</a></td>
+<td><a href="/wiki/Trenton,_New_Jersey" title="Trenton, New Jersey">Trenton</a></td>
+<td>December 18, 1787</td>
+</tr>
+<tr>
+<td><b>NM</b></td>
+<td><a href="/wiki/New_Mexico" title="New Mexico">New Mexico</a></td>
+<td><a href="/wiki/Santa_Fe,_New_Mexico" title="Santa Fe, New Mexico">Santa Fe</a></td>
+<td>January 6, 1912</td>
+</tr>
+<tr>
+<td><b>NY</b></td>
+<td><a href="/wiki/New_York" title="New York">New York</a></td>
+<td><a href="/wiki/Albany,_New_York" title="Albany, New York">Albany</a></td>
+<td>July 26, 1788</td>
+</tr>
+<tr>
+<td><b>NC</b></td>
+<td><a href="/wiki/North_Carolina" title="North Carolina">North Carolina</a></td>
+<td><a href="/wiki/Raleigh,_North_Carolina" title="Raleigh, North Carolina">Raleigh</a></td>
+<td>November 21, 1789</td>
+</tr>
+<tr>
+<td><b>ND</b></td>
+<td><a href="/wiki/North_Dakota" title="North Dakota">North Dakota</a></td>
+<td><a href="/wiki/Bismarck,_North_Dakota" title="Bismarck, North Dakota">Bismarck</a></td>
+<td>November 2, 1889</td>
+</tr>
+<tr>
+<td><b>OH</b></td>
+<td><a href="/wiki/Ohio" title="Ohio">Ohio</a></td>
+<td><a href="/wiki/Columbus,_Ohio" title="Columbus, Ohio">Columbus</a></td>
+<td>March 1, 1803</td>
+</tr>
+<tr>
+<td><b>OK</b></td>
+<td><a href="/wiki/Oklahoma" title="Oklahoma">Oklahoma</a></td>
+<td><a href="/wiki/Oklahoma_City" title="Oklahoma City">Oklahoma City</a></td>
+<td>November 16, 1907</td>
+</tr>
+<tr>
+<td><b>OR</b></td>
+<td><a href="/wiki/Oregon" title="Oregon">Oregon</a></td>
+<td><a href="/wiki/Salem,_Oregon" title="Salem, Oregon">Salem</a></td>
+<td>February 14, 1859</td>
+</tr>
+<tr>
+<td><b>PA</b></td>
+<td><a href="/wiki/Pennsylvania" title="Pennsylvania">Pennsylvania</a></td>
+<td><a href="/wiki/Harrisburg,_Pennsylvania" title="Harrisburg, Pennsylvania">Harrisburg</a></td>
+<td>December 12, 1787</td>
+</tr>
+<tr>
+<td><b>RI</b></td>
+<td><a href="/wiki/Rhode_Island" title="Rhode Island">Rhode Island</a></td>
+<td><a href="/wiki/Providence,_Rhode_Island" title="Providence, Rhode Island">Providence</a></td>
+<td>May 19, 1790</td>
+</tr>
+<tr>
+<td><b>SC</b></td>
+<td><a href="/wiki/South_Carolina" title="South Carolina">South Carolina</a></td>
+<td><a href="/wiki/Columbia,_South_Carolina" title="Columbia, South Carolina">Columbia</a></td>
+<td>May 23, 1788</td>
+</tr>
+<tr>
+<td><b>SD</b></td>
+<td><a href="/wiki/South_Dakota" title="South Dakota">South Dakota</a></td>
+<td><a href="/wiki/Pierre,_South_Dakota" title="Pierre, South Dakota">Pierre</a></td>
+<td>November 2, 1889</td>
+</tr>
+<tr>
+<td><b>TN</b></td>
+<td><a href="/wiki/Tennessee" title="Tennessee">Tennessee</a></td>
+<td><a href="/wiki/Nashville,_Tennessee" title="Nashville, Tennessee">Nashville</a></td>
+<td>June 1, 1796</td>
+</tr>
+<tr>
+<td><b>TX</b></td>
+<td><a href="/wiki/Texas" title="Texas">Texas</a></td>
+<td><a href="/wiki/Austin,_Texas" title="Austin, Texas">Austin</a></td>
+<td>December 29, 1845</td>
+</tr>
+<tr>
+<td><b>UT</b></td>
+<td><a href="/wiki/Utah" title="Utah">Utah</a></td>
+<td><a href="/wiki/Salt_Lake_City" title="Salt Lake City">Salt Lake City</a></td>
+<td>January 4, 1896</td>
+</tr>
+<tr>
+<td><b>VT</b></td>
+<td><a href="/wiki/Vermont" title="Vermont">Vermont</a></td>
+<td><a href="/wiki/Montpelier,_Vermont" title="Montpelier, Vermont">Montpelier</a></td>
+<td>March 4, 1791</td>
+</tr>
+<tr>
+<td><b>VA</b></td>
+<td><a href="/wiki/Virginia" title="Virginia">Virginia</a></td>
+<td><a href="/wiki/Richmond,_Virginia" title="Richmond, Virginia">Richmond</a></td>
+<td>June 25, 1788</td>
+</tr>
+<tr>
+<td><b>WA</b></td>
+<td><a href="/wiki/Washington" class="mw-redirect" title="Washington">Washington</a></td>
+<td><a href="/wiki/Olympia,_Washington" title="Olympia, Washington">Olympia</a></td>
+<td>November 11, 1889</td>
+</tr>
+<tr>
+<td><b>WV</b></td>
+<td><a href="/wiki/West_Virginia" title="West Virginia">West Virginia</a></td>
+<td><a href="/wiki/Charleston,_West_Virginia" title="Charleston, West Virginia">Charleston</a></td>
+<td>June 20, 1863</td>
+</tr>
+<tr>
+<td><b>WI</b></td>
+<td><a href="/wiki/Wisconsin" title="Wisconsin">Wisconsin</a></td>
+<td><a href="/wiki/Madison,_Wisconsin" title="Madison, Wisconsin">Madison</a></td>
+<td>May 29, 1848</td>
+</tr>
+<tr>
+<td><b>WY</b></td>
+<td><a href="/wiki/Wyoming" title="Wyoming">Wyoming</a></td>
+<td><a href="/wiki/Cheyenne,_Wyoming" title="Cheyenne, Wyoming">Cheyenne</a></td>
+<td>July 10, 1890</td>
+</tr>

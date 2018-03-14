@@ -1,0 +1,15 @@
+**NAME[AAA]
+**NAME[BBB CCC] (matched with identical names)
+
+**PLACE
+**INSTITUTION
+**STREET-ADDRESS
+**ZIP-CODE
+**DATE
+**AGE[in 30s]
+**PHONE
+**EMAIL
+**ID-NUM (soc, med rec, ins #, other)
+**DEVICE-ID
+**WEB-LOC
+**PATH-NUMBER (matched with identical numbers)
