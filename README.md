@@ -11,13 +11,16 @@ This way, even when some real PII is missed during deidentification, it will be 
 
 * Names
 * Ages
-* US Addresses
-
-Geographic information more specific than the state level is considered PII. The script identifies the state if present and replaces the de-id tag with a randomly selected city and real address found within that state. Using a fake address would be easy to search for and find to be made-up.  
-
 * Emails
 * ID Numbers
 * 
+
+## Data Types in Development
+
+US Addresses
+
+* Geographic information more specific than the state level is considered PII. The script identifies the state if present and replaces the de-id tag with a randomly selected city and real address found within that state. Using a fake address would be easy to search for and find to be made-up.  
+
 
 ## Run
 
