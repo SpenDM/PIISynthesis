@@ -31,11 +31,21 @@ Currently the script expects the input files to have PII marked with tags precee
 
 
 ### NAME 
-DeID retains PII in brackets after the tag NAME:
+DeID retains PII in brackets after the tag NAME. 
+This allows PIISynthesis to use the same generated name consistently for the same real name. 
+
+Example:
 
 `**NAME[Homer Simpson]`
 
-This allows PIISynthesis to use the same generated name consistently for the same real name.
+
+### DATE
+DeID already provides a random replacement for dates in brackets after the tag DATE.
+PIISynthesis simply removes the tag format and uses the date provided.
+
+Example:
+
+`**DATE[05/25/1975]`
 
 
 Full tag list: 
