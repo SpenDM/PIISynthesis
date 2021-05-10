@@ -25,20 +25,23 @@ US Addresses
 * Geographic information more specific than the state level is considered PII. The script identifies the state if present and replaces the de-id tag with a randomly selected city and real address found within that state. Using a fake address would be easy to search for and find to be made-up.  
 
 
-## Run
+## Script Input
 
-```python3 synthesize_identifiers.py INPUT_DIR OUTPUT_DIR```
+Currently the script expects the input files to have PII marked with tags preceeded by double asterisks.
 
-INPUT_DIR contains files tagged for PII. 
-Currently the script expects the input files to have PII marked in brackets preceeded by double asterisk with a specific tag:
+Some fields should retain the PII in brackets after the tag, for example:
+
+`**NAME[Homer Simpson]`
+
+Full tag list: 
 
 ```
 **NAME
+**DATE
 **PLACE
 **INSTITUTION
 **STREET-ADDRESS
 **ZIP-CODE
-**DATE
 **AGE
 **PHONE
 **EMAIL
@@ -48,3 +51,9 @@ Currently the script expects the input files to have PII marked in brackets prec
 **PATH-NUMBER
 ```
 
+## Run
+
+```python3 synthesize_identifiers.py INPUT_DIR OUTPUT_DIR```
+
+INPUT_DIR is a directory containing files tagged for PII. 
+OUTPUT_DIR is a directory to write the files with synthesized PII.
