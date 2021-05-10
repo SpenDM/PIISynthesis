@@ -27,11 +27,16 @@ US Addresses
 
 ## Script Input
 
-Currently the script expects the input files to have PII marked with tags preceeded by double asterisks.
+Currently the script expects the input files to have PII marked with tags preceeded by double asterisks, but different tags have different properties.
 
-Some fields should retain the PII in brackets after the tag, for example:
+
+### NAME 
+DeID retains PII in brackets after the tag NAME:
 
 `**NAME[Homer Simpson]`
+
+This allows PIISynthesis to use the same generated name consistently for the same real name.
+
 
 Full tag list: 
 
