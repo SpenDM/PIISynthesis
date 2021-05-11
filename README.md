@@ -1,11 +1,11 @@
 # PIISynthesis
-Generate synthetic Personally Identifiable Information (PII) for deidentified data as an additional layer of information security.
+Generate synthetic Personally Identifiable Information (PII) for de-identified data as an additional layer of information security.
 
-Deidentification is commonly performed on sensitive data, but the processes used to do so aren't perfect. 
-PII can be missed during deidentification, potentially rendering someone vulnerable to identification.
+De-identification is commonly performed on sensitive data, but the processes used to do so aren't perfect. 
+PII can be missed during de-identification, potentially rendering someone vulnerable to identification.
 
-In places where a deidentification process has tagged PII in a document, this prototype tool replaces that information with randomly generated, realistic data.
-This way, even when some real PII is missed during deidentification, it will be extremely difficult to tell which is real and which is fake, further protecting that information.
+In places where a de-identification process has tagged PII in a document, this prototype tool replaces that information with randomly generated, realistic data.
+This way, even when some real PII is missed during de-identification, it will be extremely difficult to tell which is real and which is fake, further protecting that information.
 
 PIISynthesis is currently set up to work with output of the tool called DeID. 
 
