@@ -83,6 +83,7 @@ Example:
 
 
 *DATE*
+
 DeID already provides a random replacement for dates in brackets after the tag DATE.
 PIISynthesis simply removes the tag format and uses the date provided.
 
@@ -91,21 +92,25 @@ Example:
 `**DATE[05/25/1975]`
 
 *PHONE*
+
 PIISynthesis generates a random series of numbers in one of several formats
 
 `**PHONE`
 
 *EMAIL*
+
 PIISynthesis generates a random email with one of a wide variety of real domains.
 
 `**EMAIL`
 
 *ZIP-CODE*
+
 PIISynthesis generates a random 5-digit code
 
 `**ZIP-CODE`
 
 *DEVICE-ID*
+
 PIISynthesis generates a random serial ID or alphanumeric string
 
 `**DEVICE-ID`
