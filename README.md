@@ -58,7 +58,7 @@ US Addresses
 Currently the script expects the input files to have PII marked with tags preceeded by double asterisks, but different tags have different properties.
 
 
-& NAME 
+*NAME*
 
 DeID retains real names in brackets after the tag NAME. 
 This allows PIISynthesis to use the same generated name consistently for the same real name, and likely generate first names for first names and last names for last names
@@ -67,7 +67,7 @@ Example:
 
 `**NAME[Homer Simpson]`
 
-& AGE 
+*AGE*
 
 DeID retains age ranges in brackets after the tag AGE.
 PIISynthesis will generate a random age within the range.
