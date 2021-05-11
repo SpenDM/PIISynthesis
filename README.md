@@ -7,7 +7,7 @@ PII can be missed during de-identification, potentially rendering someone vulner
 In places where a de-identification process has tagged PII in a document, this prototype tool replaces that information with randomly generated, realistic data.
 This way, even when some real PII is missed during de-identification, it will be extremely difficult to tell which is real and which is fake, further protecting that information.
 
-PIISynthesis is currently set up to work with output of the tool called DeID. 
+PIISynthesis is currently set up to work with output of a de-identification tool called DeID. 
 
 ## Example
 
