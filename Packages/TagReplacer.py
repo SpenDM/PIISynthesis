@@ -27,10 +27,10 @@ class TagReplace(object):
             self.titles = [name.rstrip('\n') for name in file.readlines()]
 
         # addresses
-        print("read pickle")
-        with open(ADDRESS_FILE, 'rb') as file:
-            self.addresses = pickle.load(file)
-        print("done")
+        # print("read pickle")
+        # with open(ADDRESS_FILE, 'rb') as file:
+        #     self.addresses = pickle.load(file)
+        # print("done")
 
         # states
         with open(STATES_FILE, 'r') as file:
@@ -43,12 +43,16 @@ class TagReplace(object):
         # TODO -- self.addresses_valid = check_addresses(self.addresses, self.states)
 
     def replace_ADDR(self, line, star_start, tag_name_end, across_tag_info):
-        generated_addr, failed = generate_street_address(self.addresses, line, tag_name_end, across_tag_info, self.states)
-        if failed:
-            replaced_line = line
-            offset = 0
-        else:
-            replaced_line, offset = replace(line, generated_addr, star_start, tag_name_end)
+        replaced_line = line
+        offset = 0
+
+        # generated_addr, failed = generate_street_address(self.addresses, line, tag_name_end, across_tag_info, self.states)
+        # if failed:
+        #     replaced_line = line
+        #     offset = 0
+        # else:
+        #     replaced_line, offset = replace(line, generated_addr, star_start, tag_name_end)
+
         return replaced_line, offset
 
     def replace_AGE(self, line, star_start, tag_name_end, across_tag_info):

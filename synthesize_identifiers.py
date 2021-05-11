@@ -1,7 +1,7 @@
 """
 Identifier Synthesis Script
-Input: file filled with reports which have had identifiers removed and replaced with tags
-Output: file of those reports where identifier tags have been replaced with realistic synthetic identifiers
+Input: directory filled with reports which have had identifiers removed and replaced with tags
+Output: directory of those reports where identifier tags have been replaced with realistic synthetic identifiers
 
 Calling the Script
 Arguments: src_folder output_folder

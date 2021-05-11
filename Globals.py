@@ -24,7 +24,7 @@ TAG_MARKER = "**"
 REPLACE_METHOD_NAME = "replace_"
 
 # -- Get mapping of tag text to tag variable name
-# NOTE: Each tag here must have a corresponding replace_XXX method in Packages/TagReplacer.py
+# NOTE: Each tag here must have a corresponding replace_X method in Packages/TagReplacer.py
 TAG_VARIABLES = {NAME: "NAME",
                 PLACE: "PLACE",
                 INST: "INST",
